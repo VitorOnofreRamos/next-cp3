@@ -1,7 +1,9 @@
+import './styles.css'
+
 const Footer = () => {
     return(
         <>
-        <footer>
+        <footer className='footer'>
             <p>Todos os direitos reservados.</p>
         </footer>
         </>

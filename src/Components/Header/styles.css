@@ -1,0 +1,19 @@
+.header {
+    background-color: #222222;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 2.5rem;
+    height: 10rem;
+}
+
+.header p {
+    color: #ffffff;
+
+    text-align: center;
+    font-weight: bolder;
+
+    font-size: 2rem;
+}
