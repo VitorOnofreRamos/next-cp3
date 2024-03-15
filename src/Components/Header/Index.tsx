@@ -11,7 +11,7 @@ const Header = () => {
              alt="Youtube icon" 
              title="Youtube" 
              width="100" height="100"/>
-            <p>Os Melhores Filmes estão aqui</p>
+            <p>Os Melhores Filmes Estão Aqui!</p>
         </header>
         </>
     );

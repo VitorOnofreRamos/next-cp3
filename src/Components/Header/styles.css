@@ -1,19 +1,15 @@
 .header {
-    background-color: #222222;
-
+    background-color: #000000;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-
     padding: 2.5rem;
     height: 10rem;
 }
 
 .header p {
     color: #ffffff;
-
     text-align: center;
     font-weight: bolder;
-
     font-size: 2rem;
 }

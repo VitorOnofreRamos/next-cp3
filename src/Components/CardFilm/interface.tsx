@@ -1,7 +1,7 @@
 interface CardFilmProps{
     title: string;
-    imageUrl: string;
-    videoUrl: string;
+    image: string;
+    video: string;
 }
 
 export default CardFilmProps;
